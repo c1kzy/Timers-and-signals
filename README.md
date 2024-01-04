@@ -10,8 +10,8 @@ and `flag` package to parse user input
 Clone the repository and run the program using a Go compiler:
 
 ```
-git clone git@git.foxminded.ua:foxstudent106270/task-1.3-work-time.git
-cd task-1.3-work-time
+git clone https://github.com/c1kzy/Timers-and-signals.git
+cd Timers-and-signals
 go run main.go (your time here. Example: "12:04:30AM")
 ```
 
@@ -19,8 +19,8 @@ go run main.go (your time here. Example: "12:04:30AM")
 To run unit tests, follow the steps below:
 
 ```
-git clone git@git.foxminded.ua:foxstudent106270/task-1.3-work-time.git
-cd task-1.3-work-time
+git clone https://github.com/c1kzy/Timers-and-signals.git
+cd Timers-and-signals
 go run test
 ```
 
